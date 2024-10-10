@@ -56,6 +56,19 @@ This is an outline of skills that I plan to acquire in the upcoming months. I wi
 1. Manipulate Data with Pandas: Get comfortable with pandas for more advanced data manipulation tasks, such as data cleaning, aggregation, and merging.
 2. Create a Web Scraping Script: Write a Python script that scrapes data from websites and stores it in a structured format for further analysis.
 3. Develop a Simple Web Application: Use a framework like Flask to build a basic web app that allows users to input data and see results on a webpage.
+
+
+📊 SQL:
+
+Learn Basic SQL Queries: Start by learning how to retrieve and manipulate data with SQL queries using SELECT, WHERE, JOIN, and GROUP BY.
+Integrate SQL with Python: Learn how to use libraries like SQLite3 or SQLAlchemy to interact with databases using Python scripts.
+Build a Simple Database and Query It: Set up a small database, such as a customer sales database, and write queries to analyze the data.
+📉 Python & Data Integration:
+
+Manipulate Data with Pandas: Get comfortable with pandas for more advanced data manipulation tasks, such as data cleaning, aggregation, and merging.
+Create a Web Scraping Script: Write a Python script that scrapes data from websites and stores it in a structured format for further analysis.
+
+
 📝Business-Tech Integration:
 Course##: Business Analytics with Python: Take a course that focuses on applying Python to solve business problems, such as forecasting, trend analysis, and optimization.
 Course**: Financial Modeling and Valuation: Enhance your Excel skills by learning to build financial models that can be automated or enhanced with Python.
