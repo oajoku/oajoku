@@ -1,3 +1,22 @@
+UPDATE -- JUNE 2025
+
+Hi there! 👋🏽
+Just a quick note to share that while I haven’t pushed many updates recently, I’m still deeply committed to my goals in fintech, and business analytics.
+
+Over the past few months, I’ve been:
+
+Working full-time while managing personal responsibilities
+
+Learning French 
+
+Networking and exploring future academic and career paths
+
+Focusing on areas that require my attention right now
+
+ Thank you for your patience and continued interest in my journey.
+
+
+
 ##Brief Introduction😄
 Hello and welcome to my page! 👋 My name is Onyinyechi “Onyi” Ajoku. I am a recent graduate of business administration📚 with an interest in technology💻. It should be noted that I have no prior experience with technology and have made it my goal to become an expert in it. With GitHub, I'll be able to hone my abilities and blend my technical and business knowledge to produce incredible things along the way.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
