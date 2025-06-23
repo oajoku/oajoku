@@ -1,4 +1,4 @@
-UPDATE -- JUNE 2025
+****UPDATE -- JUNE 2025
 
 Hi there! 👋🏽
 Just a quick note to share that while I haven’t pushed many updates recently, I’m still deeply committed to my goals in fintech, and business analytics.
@@ -14,6 +14,9 @@ Networking and exploring future academic and career paths
 Focusing on areas that require my attention right now
 
  Thank you for your patience and continued interest in my journey.
+
+******
+
 
 
 
